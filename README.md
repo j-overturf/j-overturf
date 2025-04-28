@@ -5,7 +5,7 @@ I am an aspiring cybersecurity professional with a passion for making efficient,
 I have competed in the National Cyber League (NCL), and the US Cyber Challenge Quest!
 
 ## Skills and Technologies
-[![](https://skillicons.dev/icons?i=windows,ubuntu,sqlite,pycharm,py,powershell,lua,linux,linkedin,java,html,docker,clion,cpp,bash&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,py,powershell,lua,sqlite,pycharm,java,html,docker,clion,cpp,bash&perline=5)](https://skillicons.dev)
 
 ## Projects
 
