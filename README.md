@@ -3,11 +3,7 @@
 I am an aspiring cybersecurity professional with a passion for making efficient, secure, and reliable systems! I am currently studying computer science at George Fox University.
 
 ## Skills and Technologies
-- Python
-- Java
-- C++
-- Go
-- LUA
+[![](https://skillicons.dev/icons?i=windows,ubuntu,sqlite,pycharm,py,powershell,lua,linux,linkedin,java,html,docker,clion,cpp,bash&perline=5)](https://skillicons.dev)
 
 ## Projects
 
